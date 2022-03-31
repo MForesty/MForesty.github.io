@@ -1,0 +1,15 @@
+body{
+    font-family: serif;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(#87CEFA, #1E90FF);
+}
+
+.weather {
+    padding-top: 30px;
+    padding-bottom: 10px;
+    font-size: 30px;
+}
